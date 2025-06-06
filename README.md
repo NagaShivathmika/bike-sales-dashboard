@@ -13,4 +13,5 @@ Key Insights:
 Tools:
 This project was built using Microsoft Excel, leveraging PivotTables to summarize customer data and PivotCharts to visualize purchase trends. Slicers enabled interactive filtering across dimensions like region and marital status. Custom calculations were used to extract insights such as average income by group.
 
+![Bike_Sales_Dashboard](https://github.com/user-attachments/assets/ee15797f-ff4d-43fe-8767-64e0fce72a34)
 
